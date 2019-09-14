@@ -21,4 +21,7 @@ SecondTest
     
 ThirdTest
     Log    I am in ThirdTest
+    
+FourTest
+    Log    This is my fourth test to git change and push
 
